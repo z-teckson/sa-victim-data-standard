@@ -17,6 +17,8 @@ This template provides a standardized framework for collecting data on human tra
 - **Gender**: [ ] Female | [ ] Male | [ ] Other/Non-binary
 - **Province of Identification**: [Select province]
 - **Urban/Rural Setting**: [ ] Urban | [ ] Rural | [ ] Peri-urban
+- **Travel document status**: [ ] Valid passport | [ ] No passport | [ ] Other (specify: ________)
+- **Visa type (if applicable)**: ________
 
 ### 2. Trafficking Information
 - **Type of Exploitation** (select all that apply):
@@ -40,6 +42,8 @@ This template provides a standardized framework for collecting data on human tra
   - **Destination Location**: ________
   - **Border Crossing Points**: ________
 - **Duration of Exploitation**: [ ] <1 month | [ ] 1-6 months | [ ] 6-12 months | [ ] 1-2 years | [ ] >2 years
+- **Case officer contact details (optional)**: ________
+- **Evidence collection log reference**: ________
 
 ### 3. Health & Psychosocial Indicators
 - **Physical Health Screening**:
@@ -50,7 +54,9 @@ This template provides a standardized framework for collecting data on human tra
   - **PTSD screening result**: [ ] Positive | [ ] Negative | [ ] Not assessed
   - **Depression screening result**: [ ] Positive | [ ] Negative | [ ] Not assessed
   - **Anxiety screening result**: [ ] Positive | [ ] Negative | [ ] Not assessed
+  - **Mental health screening tool used**: ________
 - **Substance Use**: [ ] Yes | [ ] No (if yes, specify substances: ________)
+- **Medication prescribed (if any)**: ________
 
 ### 4. Intervention Details
 - **Referring Agency**: [ ] Police | [ ] NGO | [ ] Healthcare facility | [ ] Social Development | [ ] Other (specify: ________)
@@ -80,3 +86,5 @@ This template provides a standardized framework for collecting data on human tra
 **Template Version**: 1.0  
 **Last Updated**: [Date of last edit]  
 **Maintainer**: South African Inter‑Agency Task Team on Human Trafficking
+
+*Note: This version includes additions based on feedback from law enforcement, healthcare, and migration stakeholders.*
